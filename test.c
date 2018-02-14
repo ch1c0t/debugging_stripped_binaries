@@ -10,3 +10,5 @@ int main()
   int v = 21;
   fun(v);
 }
+
+// gcc -O3 test.c
